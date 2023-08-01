@@ -1,0 +1,9 @@
+#myBody{
+    position: relative;
+}
+
+.image-link{
+    display: fixed;
+    top: 20vh;
+    left: 10vh;
+}
